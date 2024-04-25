@@ -1,4 +1,4 @@
-ثimport os
+import os
 import re
 import aiofiles
 import aiohttp
